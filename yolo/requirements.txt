@@ -1,0 +1,16 @@
+timm==0.6.13
+omegaconf
+numpy
+opencv_python
+loguru
+scikit-image
+tqdm
+Pillow
+thop
+tabulate
+easydict
+
+matplotlib
+seaborn
+scikit-learn
+ipykernel

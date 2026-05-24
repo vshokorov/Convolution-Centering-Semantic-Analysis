@@ -1,0 +1,4 @@
+sound/sound_dataset_demo/*.zip filter=lfs diff=lfs merge=lfs -text
+facerec_and_cifar/datasets.zip filter=lfs diff=lfs merge=lfs -text
+facerec_and_cifar/pytorch_cifar100/checkpoint/*.pth filter=lfs diff=lfs merge=lfs -text
+facerec_and_cifar/facerec_weights/*/*.pt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,4 @@
+After conv
+Before conv vs After conv
+After shifting
+Before shifting vs After shifting

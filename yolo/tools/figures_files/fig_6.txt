@@ -1,0 +1,8 @@
+After conv
+After center
+Before conv vs After conv
+Before center vs After center
+After bias
+Before bias vs After bias
+After shifting
+Before shifting vs After shifting
