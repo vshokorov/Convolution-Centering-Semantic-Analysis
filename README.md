@@ -20,7 +20,7 @@ Despite the widespread using of Normalization Layers for stabilizing the deep ne
 ```
 Convolution-Centering-Semantic-Analysis/
 │
-├── plots_genaral.ipynb                # Figure 6: cross-model summary plots
+├── plots_general.ipynb                # Figure 6: cross-model summary plots
 │
 ├── yolo/                              # DAMO-YOLO experiments (COCO dataset)
 │   ├── plots_yolo.ipynb              # Figures 1, 7, 9, 10; Figures 6, 8 preparation
