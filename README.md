@@ -1,15 +1,11 @@
 # Convolution-Centering-Semantic-Analysis
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
 This repository contains the official implementation of the paper:
 
 > **Convolution-Centering Semantic Analysis: Beyond Normalization in Deep Networks**
-> Author One, Author Two  
-> *Conference / Journal Name*, Year.  
-> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> V. Shokorov, A. Shchepanovskiy, E. Shvetsov, E. Burnaev and A. Samosyuk
+> IEEE Access, 2026.
+> [IEEE Access](https://ieeexplore.ieee.org/abstract/document/11482430)
 
 ## 📄 Abstract
 
@@ -180,7 +176,14 @@ To reproduce any results check **plots_general.ipynb** for further instuctions
 If you use this code in your research, please cite our paper:
 
 ```text
-@inproceedings{author2024title,
-  ....
-}
+@ARTICLE{11482430,
+  author={Shokorov, Viacheslav and Shchepanovskiy, Alexander and Shvetsov, Egor and Burnaev, Evgeny and Samosyuk, Alexey},
+  journal={IEEE Access}, 
+  title={Convolution-Centering Semantic Analysis: Beyond Normalization in Deep Networks}, 
+  year={2026},
+  volume={14},
+  number={},
+  pages={62547-62557},
+  keywords={Broadcasting;Broadcast technology;Filtering;Filters;Circuits and systems;Pixel;High frequency;Network architecture;Communication systems;Internet;Background suppression;batch normalization;centering operation;deep learning interpretability;semantic filtering},
+  doi={10.1109/ACCESS.2026.3684723}}
 ```
